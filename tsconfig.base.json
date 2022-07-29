@@ -15,7 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@codatomic/books/data-access": ["libs/books/data-access/src/index.ts"],
       "@codatomic/books/feature": ["libs/books/feature/src/index.ts"],
+      "@codatomic/books/ui": ["libs/books/ui/src/index.ts"],
       "@codatomic/ui": ["libs/ui/src/index.ts"]
     }
   },
