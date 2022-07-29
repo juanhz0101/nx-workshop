@@ -2,6 +2,10 @@
 
 # Codatomic
 
+## CookBook 
+
+*https://cdn2.hubspot.net/hubfs/2757427/effective-react-with-nx-preview.v0.5.pdf*
+
 This project was generated using [Nx](https://nx.dev).
 
 <p style="text-align: center;"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
